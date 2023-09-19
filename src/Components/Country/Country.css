@@ -1,0 +1,12 @@
+ .countryStyle{
+    border: 8px solid mediumaquamarine;
+    /* width: 400px; */
+    margin-top: 30px;
+    border-radius: 50px;
+    background-color: rgb(228, 165, 165);
+ }
+
+ .countryStyle img {
+   width: 150px;
+   padding-bottom: 30px;
+ }
